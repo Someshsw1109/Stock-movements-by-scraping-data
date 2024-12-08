@@ -1,0 +1,7 @@
+yfinance
+tweepy
+nltk
+scikit-learn
+matplotlib
+treeinterpreter
+vaderSentiment
